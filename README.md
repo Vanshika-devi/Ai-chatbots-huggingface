@@ -342,7 +342,7 @@ If you found this project useful:
 
 For suggestions, improvements, or collaboration opportunities:
 
-- GitHub: https://github.com/your-username
+- GitHub: https://github.com/Vanshika-devi
 
 ---
 
